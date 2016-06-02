@@ -1,0 +1,14 @@
+layout_spectrum: 0.05963614908978343
+typography_spectrum: 0.32369171059690416
+color:
+  brandStrength: 0.05142073519527912
+  lightness: 0.9547460346948355
+  saturation: 0.02018728735856712
+  rhythmicContrast: 0.9659835426136851
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: fein.kost-weninger
